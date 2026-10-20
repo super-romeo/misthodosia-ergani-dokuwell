@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://misthodosia-ergani.dokuline.com/sitemap.xml
